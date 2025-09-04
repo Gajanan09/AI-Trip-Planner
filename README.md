@@ -1,5 +1,7 @@
 **AI-Powered Trip Planner**
+
 Project Overview
+
 AI-Powered Trip Planner is a full-stack web application designed to simplify and enhance the travel planning experience. Leveraging the power of artificial intelligence, this application generates personalized travel itineraries, recommends top destinations, and suggests hotels tailored to a user's preferences.
 
 **Key Features**
